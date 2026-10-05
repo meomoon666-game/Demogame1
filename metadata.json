@@ -1,0 +1,6 @@
+{
+  "name": "Tu Tiên Ký: Dị Giới Trọng Sinh",
+  "description": "Game mô phỏng cuộc đời Dark Fantasy / Isekai phong cách BitLife với hệ thống 40+ sự kiện, hầm ngục, ân oán và kế thừa thế hệ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
